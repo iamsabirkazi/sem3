@@ -1,1 +1,28 @@
 
+1) Write a program to implement stack by using array. (Static Implementation of stack)
+
+2) Write a program, which reverses the entered string by using stack.
+
+3) Write a program to check entered string is palindrome or not by using stack.
+
+4) Write a program to convert decimal number into binary number by using stack.
+
+5) Write a program that counts total number of vowels present in string by using stack.
+
+6) Write a program which converts infix expression into prefix expression.
+
+7) Write a program which converts infix expression into Postfix expression.
+
+8) Write a program which check entered expression is valid or not.
+
+9) Write a program that evaluates entered postfix expression.
+
+10) Write a program to calculate factorial of entered number by using recursion.
+
+11) Write a program to calculate digit sum of entered number by using recursion.
+
+12) Write a program to find face value of entered number by using recursion.
+
+13) Write a program that demonstrate implementation of multiple stacks. (Hint: Take one stack 
+
+to store even numbers and other stack to store odd numbers.)
