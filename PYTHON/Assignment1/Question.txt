@@ -1,0 +1,85 @@
+1. Write a python program to print odd numbers of a list by using list comprehension.
+
+2. Consider a string “I live in sangola” write a python program to print words less than 5 
+
+ Characters by using list comprehension.
+
+3. Write a python program which prints numbers between 10 to 50 which are divisible
+
+ by 3 by using tuple comprehension.
+
+4. Write a python program to demonstrate dictionary Comprehension.
+
+5. Write a python program in which a variable can be accessed everywhere in program.
+
+6. Write a python program to demonstrate nonlocal keyword.
+
+7. Write a python function which accepts another function as an argument as well as 
+
+ returns another function from it’s definition.
+
+8. Write a python function to find given number is prime or not.(Use type hinting)
+
+9. Write a program to print numbers which are divisible by 3 in a range 10 to 50 in 
+
+ reverse manner by using filter function.
+
+10. Write a map function by using lambda function to print square of each element 
+
+ present in a list.
+
+11. Write a python program to demonstrate reduce function.
+
+12. Write a program to create an iterator which prints elements of an iterable.
+
+13. Write python program to demonstrate
+
+ a) count() b) cycle() c) repeat()
+
+14. Write python program to demonstrate
+
+ a) accumulate() b) groupby() c) chain()
+
+15. Consider a list [1,2,3,4,5]
+
+ Make chunks of size 3 of above list by using a function of appropriate Terminating 
+
+ iterator category.
+
+16. Write python program to demonstrate
+
+ a) dropwhile() b) filterfalse() c) isslice()
+
+17. Consider a list of temperature of a week in degree celsius [42,46,41,42,44]
+
+ find the temperature difference of each next day with it’s previous day by using 
+
+ appropriate Terminating iterator category.
+
+18. Write python program to demonstrate
+
+ a) permutations() b) combinations() c) product()
+
+19. Write a python program of Arbitrary arguments which accepts a dictionary of 
+
+ arguments.
+
+20. Write a program to create a new object and stores reference to the original 
+
+elements.
+
+21. Write a program to create a new object which copies all nested objects within the 
+
+ original elements.
+
+22. Write a python program to match a pattern of a mobile number which starts from 8 
+
+ or 9.
+
+23. Write a regex pattern by using special sequence to extract only digits from input.
+
+24. Consider a string “sangola mahavidyala sangola Tal:sangola Dist:solapur ”
+
+ Replace all white spaces by “*” use appropriate regex method.
+
+25. Write a Python program to find all words starting with 'a' or 's' or 'r' in a given string.
